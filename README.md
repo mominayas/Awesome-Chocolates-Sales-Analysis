@@ -60,4 +60,4 @@ The project is organized into the following files and folders:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/powerbi-sales-analytics-dashboard.git
+   git clone https://github.com/mominayas/powerbi-sales-analytics-dashboard.git
